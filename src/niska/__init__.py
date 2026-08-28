@@ -1,6 +1,6 @@
-# © 2026 Strategos. All rights reserved.
-# niska — stub package. Redirects to niska-november.
-# See: https://github.com/ShadowStrike-CTF/shadowstrike-suite
+# Niška — Forensic review platform.
+# © 2026 Strategos Pty Ltd. All rights reserved.
+# Aut Viam Inveniam Aut Faciam
 
 try:
     from niska_november import *  # noqa: F401, F403
